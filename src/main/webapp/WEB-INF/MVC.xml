@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<!-- 配置action扫描包的路径 -->
+	<component-scan base-package="com.hczoop.example.action"/>
+</beans>
